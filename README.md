@@ -13,10 +13,10 @@ Working in our geospatial organsation, Python has a particular relevance, becaus
 * it is used inside Safe's FME<sup>[6]</sup>; and 
 * it has good bindings for [GDAL](http://www.gdal.org/).
 
-[1]: http://stackoverflow.com/research/developer-survey-2016#technology
-[2]: http://stackoverflow.com/research/developer-survey-2016#technology-most-loved-dreaded-and-wanted
-[3]: http://stackoverflow.com/research/developer-survey-2016#technology-top-tech-on-stack-overflow
-[4]: http://stackoverflow.com/research/developer-survey-2016#most-popular-technologies-per-occupation
+[1]: http://stackoverflow.com/research/developer-survey-2016#technology "Stack Overflow: Developer Survey"
+[2]: http://stackoverflow.com/research/developer-survey-2016#technology-most-loved-dreaded-and-wanted "Stack Overflow: Developer Survey"
+[3]: http://stackoverflow.com/research/developer-survey-2016#technology-top-tech-on-stack-overflow "Stack Overflow: Developer Survey"
+[4]: http://stackoverflow.com/research/developer-survey-2016#most-popular-technologies-per-occupation "Stack Overflow: Developer Survey"
 [5]: http://pro.arcgis.com/en/pro-app/arcpy/get-started/what-is-arcpy-.htm
 [6]: https://knowledge.safe.com/articles/706/python-and-fme-basics.html
 [7]: https://blog.newrelic.com/2016/08/18/popular-programming-languages-2016-go/
