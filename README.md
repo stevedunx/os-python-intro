@@ -17,8 +17,8 @@ Working in our geospatial organsation, Python has a particular relevance, becaus
 [2]: http://stackoverflow.com/research/developer-survey-2016#technology-most-loved-dreaded-and-wanted "Stack Overflow: Developer Survey"
 [3]: http://stackoverflow.com/research/developer-survey-2016#technology-top-tech-on-stack-overflow "Stack Overflow: Developer Survey"
 [4]: http://stackoverflow.com/research/developer-survey-2016#most-popular-technologies-per-occupation "Stack Overflow: Developer Survey"
-[5]: http://pro.arcgis.com/en/pro-app/arcpy/get-started/what-is-arcpy-.htm
-[6]: https://knowledge.safe.com/articles/706/python-and-fme-basics.html
-[7]: https://blog.newrelic.com/2016/08/18/popular-programming-languages-2016-go/
-[8]: http://pypl.github.io/PYPL.html
-[9]: http://www.tiobe.com/tiobe-index/
+[5]: http://pro.arcgis.com/en/pro-app/arcpy/get-started/what-is-arcpy-.htm "ArcGIS: What is ArcPy"
+[6]: https://knowledge.safe.com/articles/706/python-and-fme-basics.html "Safe: Python and FME"
+[7]: https://blog.newrelic.com/2016/08/18/popular-programming-languages-2016-go/ "New Relic: Popular Programming Languages"
+[8]: http://pypl.github.io/PYPL.html "PYPL"
+[9]: http://www.tiobe.com/tiobe-index/ "TIOBE: TIOBE Index"
