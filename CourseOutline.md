@@ -1,4 +1,4 @@
-1. Hello World!
+1. Hello World! [(exercise)](exercises/1.md)
   * Creating python script
   * Basic print statement
 
