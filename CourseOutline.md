@@ -2,7 +2,7 @@
   * Creating python script
   * Basic print statement
 
-2. Strings and variables
+2. Strings and variables [(exercise)](exercises/2.md)
   * Setting strings as variables
   * String formatting
 
