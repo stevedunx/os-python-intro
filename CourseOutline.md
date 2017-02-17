@@ -6,7 +6,7 @@
   * Setting strings as variables
   * String formatting
 
-3. Lists, tuples, dictionaries
+3. Lists, tuples, dictionaries [(exercise)](exercises/3.md)
   * Creating
   * Sorting
   * Appending and removing items
