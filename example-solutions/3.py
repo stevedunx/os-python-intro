@@ -10,10 +10,11 @@ a.sort(reverse=True)  # or a.sort(); a.reverse()
 # Create another variable that is a set of the unique values from the list
 b = set(a)
 
-#
+# Create a dictionary the Middle as keys and YOB as the values
 c = {'Arthur': 1941,
      'Marwood': 1939,
      'Vance': 1940,
-     'Bone': 1943,
      'Graham': 1942,
      'Edward': 1943}
+c['Marwood']
+c['Bone'] = 1943
