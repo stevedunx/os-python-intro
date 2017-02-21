@@ -57,3 +57,28 @@ Once a dictionary is created, it can be changed:
 # It can get complex... 
 
 The values in a list or dictionary can be other lists or dictionaries.
+
+The following is an example of GeoJSON, but is also valid Python syntax:
+
+```
+feature_collection = {
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[-1.47, 50.94], [-1.47, 50.93], [-1.46, 50.93], [-1.47, 50.94]]]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [[-1.47, 50.94], [-1.46, 50.94], [-1.46, 50.93]]
+            }
+        }
+    ]
+}
+feature_collection["features"][1]["geometry"]["coordinates"][1][0] # get the X coordinate of the second vertex of the geometry of the second feature
+```

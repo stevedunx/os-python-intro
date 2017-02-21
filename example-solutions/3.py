@@ -3,11 +3,11 @@
 #
 
 # Create an array
-a = [1, 29, 26, 26, 23, 21, 18, 16, 13, 10, 8, 5, 3, 26] # or, the ridiculous way: import datetime; [(datetime.datetime(2017,1,1) + datetime.timedelta(weeks=i*4)).day for i in range(0,14)]
+a = [1, 29, 26, 26, 23, 21, 18, 16, 13, 10, 8, 5, 3, 26]
 
 # There is an error in the list
-a.
-a.append(31)
+a.pop() # remove the last element
+a.append(31) # append the new value
 
 # How many items are there in the list
 len(a)
@@ -22,7 +22,7 @@ a.sort(reverse=True)  # or a.sort(); a.reverse()
 b = set(a)
 
 # What is wrong with a[len(a)]? The first element must be an index, which starts from 0, whereas a length starts from 1. Hence, it should be:
-a[len(a)-1]
+a[len(a) - 1]
 # or
 a[-1]
 
@@ -47,5 +47,6 @@ c['Bone'] = 1943
 c['Graham']
 
 # What is wrong with d[2]? There is no key called 2. Probably what is meant is:
-d = {1:4,5:7,24:9}
+d = {1: 4, 5: 7, 24: 9}
 d[24]
+
