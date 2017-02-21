@@ -31,7 +31,9 @@ Once a list is created, it can be changed:
 
 Tuples are like lists, but cannot be changed. Tuples can be faster than lists.
 
-* `a_tuple = (1,3,5,7,9)`
+* `a_tuple = (1,3,5,7,9)` will create a new tuple.
+
+Data can be obtained from a tuple just like lists, but nothing can be added to an existing tuple.
 
 # Dictionaries
 
