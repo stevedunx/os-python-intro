@@ -24,7 +24,7 @@
   * If/else
   * And/or
 
-8. Functions and classes
+8. Functions and classes [(exercise)](exercises/8.md)
   * Scope
   * Default values in function
   * Creating instances of classes
