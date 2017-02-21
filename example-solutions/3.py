@@ -31,10 +31,6 @@ a[-1::-1]
 # or
 a[::-1]
 
-# What is wrong with d[2]? There is no key called 2. Probably what is meant is:
-d = {1:4,5:7,24:9}
-d[24]
-
 #
 # PART TWO
 #
@@ -48,4 +44,8 @@ c = {'Arthur': 1941,
 
 # Add 'Bone' to the dictionary, with a value of 1943
 c['Bone'] = 1943
-c['Marwood']
+c['Graham']
+
+# What is wrong with d[2]? There is no key called 2. Probably what is meant is:
+d = {1:4,5:7,24:9}
+d[24]
