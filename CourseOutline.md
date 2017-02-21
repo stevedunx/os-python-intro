@@ -15,21 +15,21 @@
 4. For loops
   * Iteration through collections
 
-6. Numbers
+5. Numbers
   * Basic arithmetic operations
   * Number types
 
-7. True/false
+6. True/false
   * Boolean values
   * If/else
   * And/or
 
-8. Functions and classes
+7. Functions and classes [(exercise)](exercises/7.md)
   * Scope
   * Default values in function
   * Creating instances of classes
 
-9. Helpful functions:
+8. Helpful functions:
   * IO functions (read, write)
   * time
   * glob
