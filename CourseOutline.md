@@ -19,7 +19,7 @@
   * Basic arithmetic operations
   * Number types
 
-6. True/false
+6. True/false [(exercise)](exercises/6.md)
   * Boolean values
   * If/else
   * And/or
