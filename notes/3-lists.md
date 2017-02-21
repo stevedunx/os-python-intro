@@ -35,7 +35,7 @@ Tuples are like lists, but cannot be changed. Tuples can be faster than lists.
 
 # Dictionaries
 
-## Dictionaries are an unordered collection of items, whose values are accessed via keys.
+Dictionaries are an unordered collection of items, whose values are accessed via keys.
 
 `a_dict = {1:4, 5:7, 24:9}` will create a dictionary with numbers as keys
 `python_dict = {'Arthur':1941,'Marwood':1939}` will create a dictionary with strings as keys
