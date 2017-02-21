@@ -4,6 +4,12 @@ a = [1, 29, 26, 26, 23, 21, 18, 16, 13, 10, 8, 5, 3]
 # Append the value 31 to the end of the list
 a.append(31)
 
+# How many items are there in the list
+len(a)
+
+# Retrieve every other value from the list
+a[::2]
+
 # Sort the list so that it starts with 31 and ends with 1.
 a.sort(reverse=True)  # or a.sort(); a.reverse()
 
@@ -16,5 +22,7 @@ c = {'Arthur': 1941,
      'Vance': 1940,
      'Graham': 1942,
      'Edward': 1943}
-c['Marwood']
+
+# Add 'Bone' to the dictionary, with a value of 1943
 c['Bone'] = 1943
+c['Marwood']
