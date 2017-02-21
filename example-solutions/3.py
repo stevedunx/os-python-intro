@@ -1,7 +1,12 @@
-# Create an array
-a = [1, 29, 26, 26, 23, 21, 18, 16, 13, 10, 8, 5, 3]
+#
+# PART ONE
+#
 
-# Append the value 31 to the end of the list
+# Create an array
+a = [1, 29, 26, 26, 23, 21, 18, 16, 13, 10, 8, 5, 3, 26] # or, the ridiculous way: import datetime; [(datetime.datetime(2017,1,1) + datetime.timedelta(weeks=i*4)).day for i in range(0,14)]
+
+# There is an error in the list
+a.
 a.append(31)
 
 # How many items are there in the list
@@ -15,6 +20,24 @@ a.sort(reverse=True)  # or a.sort(); a.reverse()
 
 # Create another variable that is a set of the unique values from the list
 b = set(a)
+
+# What is wrong with a[len(a)]? The first element must be an index, which starts from 0, whereas a length starts from 1. Hence, it should be:
+a[len(a)-1]
+# or
+a[-1]
+
+# How do you make a backwards slice work?
+a[-1::-1]
+# or
+a[::-1]
+
+# What is wrong with d[2]? There is no key called 2. Probably what is meant is:
+d = {1:4,5:7,24:9}
+d[24]
+
+#
+# PART TWO
+#
 
 # Create a dictionary the Middle as keys and YOB as the values
 c = {'Arthur': 1941,
