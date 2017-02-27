@@ -12,7 +12,7 @@
   * Appending and removing items
   * Indexing, slicing, steps
 
-4. For loops
+4. For loops [(exercise)](exercises/4.md)
   * Iteration through collections
 
 5. Numbers
