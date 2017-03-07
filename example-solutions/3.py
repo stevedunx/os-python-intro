@@ -3,17 +3,14 @@
 #
 
 # Create an array
-a = [1, 29, 26, 26, 23, 21, 18, 16, 13, 10, 8, 5, 3, 26]
+a = [1, 29, 26, 26, 24]
 
 # There is an error in the list
 a.pop() # remove the last element
-a.append(31) # append the new value
+a.append(23) # append the new value
 
 # How many items are there in the list
 len(a)
-
-# Retrieve every other value from the list
-a[::2]
 
 # Sort the list so that it starts with 31 and ends with 1.
 a.sort(reverse=True)  # or a.sort(); a.reverse()
@@ -44,6 +41,8 @@ c = {'Arthur': 1941,
 
 # Add 'Bone' to the dictionary, with a value of 1943
 c['Bone'] = 1943
+
+# What is the YOB for Graham?
 c['Graham']
 
 # What is wrong with d[2]? There is no key called 2. Probably what is meant is:
