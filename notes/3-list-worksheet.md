@@ -7,16 +7,18 @@ Pattern to follow:
 Exercises
 ---------
 
-numbers = [1, 2, 3, 4, 5, 6, 233]
+Using the list below, find the statements that match each answer. 
 
-| Statement  | Result      
-|---|------------------------------
-| numbers[0]  |           
-| numbers[-1] |           |
-| numbers[0:2]  |           |
-| numbers[1:] |           |
-| numbers[:-1]  |           |
-| numbers[::2] |           |
+`numbers = [1, 2, 3, 4, 5, 6, 233]`
+
+| Statement       | Result    |
+|-----------------|-----------|
+| `numbers[0]  `  |           |
+| `numbers[-1] `  |           |
+| `numbers[0:2]`  |           |
+| `numbers[1:] `  |           |
+| `numbers[:-1]`  |           |
+| `numbers[::2]`  |           |
 
 Answers:
 * [1,3,5,233]

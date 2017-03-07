@@ -7,14 +7,7 @@ a_list = [4,7,9,6]
 a_mess = ['string',14,54.3]
 ```
 
-Parts of the list can be extracted:
-
-* `a_list[0]` will get the first element of the list.
-* `a_list[-1]` will get the last element of the list.
-* `a_list[0:2]` will get a list of elements, from index 0 up to, but not including, 2.
-* `a_list[1:]` will get a list of elements, from index 1 up to the end of the list.
-* `a_list[:-1]` will get a list of elements, from the beginning up to, but not including, the last value in the list.
-* `a_list[::2]` will get every other element from the list, from start to end.
+Parts of the list can be extracted, see [worksheet](3-list-worksheet.md).
 
 Other information can be obtained from the list:
 

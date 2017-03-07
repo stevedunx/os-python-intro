@@ -15,7 +15,7 @@
 4. For loops [(exercise)](exercises/4.md)
   * Iteration through collections
 
-5. Numbers
+5. Numbers [(exercise)](exercises/5.md)
   * Basic arithmetic operations
   * Number types
 
