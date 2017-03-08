@@ -12,7 +12,7 @@ n = 12
 
 Try to guess the results that you would get from running the statement. Then, try running the statement and see whether it gave you the expected result (there might be some surprises).
 
-|# | Statement                                       | Guess | Result   |
+|Q | Statement                                       | Guess | Result   |
 |--|-------------------------------------------------|-------|----------|
 |1 | `10 + 100 `                                     |       |          |
 |2 | `10 - 90 `                                      |       |          |
