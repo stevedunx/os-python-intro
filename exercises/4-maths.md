@@ -25,8 +25,6 @@ Try to guess the results that you would get from running the statement. Then, tr
 |9 | `y / x `        |       |          |
 |10| `"1" + "2" `    |       |          |
 |11| `"0" * 2 `      |       |          |
-|12| ```m = 12
-m += 1 ```\nWhat is the new value of `m`?  |       |          |
-|13| ```n = 12
-n -= 2```\nWhat is the new value of `n`?  |       |          |
+|12| `m = 12; m += 1` What is the new value of `m`?  |       |          |
+|13| `n = 12; n -= 2` What is the new value of `n`?  |       |          |
 
