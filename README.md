@@ -13,6 +13,8 @@ Working in our geospatial organsation, Python has a particular relevance, becaus
 * it is used inside Safe's FME<sup>[6]</sup>; and 
 * it has good bindings for [GDAL](http://www.gdal.org/).
 
+[Continue to the outline and the exercises](CourseOutline.md)
+
 [1]: http://stackoverflow.com/research/developer-survey-2016#technology "Stack Overflow: Developer Survey"
 [2]: http://stackoverflow.com/research/developer-survey-2016#technology-most-loved-dreaded-and-wanted "Stack Overflow: Developer Survey"
 [3]: http://stackoverflow.com/research/developer-survey-2016#technology-top-tech-on-stack-overflow "Stack Overflow: Developer Survey"
