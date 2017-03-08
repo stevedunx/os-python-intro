@@ -6,6 +6,8 @@ Using the following variables:
 ```
 x = 9
 y = 15.0
+m = 12
+n = 12
 ```
 
 Try to guess the results that you would get from running the statement. Then, try running the statement and see whether it gave you the expected result (there might be some surprises).
@@ -23,4 +25,8 @@ Try to guess the results that you would get from running the statement. Then, tr
 |9 | `y / x `        |       |          |
 |10| `"1" + "2" `    |       |          |
 |11| `"0" * 2 `      |       |          |
+|12| ```m = 12
+m += 1 ```\nWhat is the new value of `m`?  |       |          |
+|13| ```n = 12
+n -= 2```\nWhat is the new value of `n`?  |       |          |
 
