@@ -11,9 +11,12 @@ for film in a_list_of_films:
 
 # Step 2
 
-
+i = 1
+while i <= 10:
+    print ""
 
 # Bonus
+
 second_last_number = 0
 last_number = 1
 while last_number < 34:

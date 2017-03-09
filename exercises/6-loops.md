@@ -15,7 +15,7 @@ Beware that if you are trying to add a number to a string, Python gets confused 
 
 # Step 2
 
-TODO
+Create a while loop that loops through the numbers from 1 to 10 and prints the number along with the number multiplied by 10. 
 
 # Bonus
 

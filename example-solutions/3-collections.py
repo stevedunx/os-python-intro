@@ -12,15 +12,15 @@ a.append(23) # append the new value
 # How many items are there in the list
 len(a)
 
-# Sort the list so that it starts with 31 and ends with 1.
+# Sort the list so that it starts with 29 and ends with 1.
 a.sort(reverse=True)  # or a.sort(); a.reverse()
 
 # Create another variable that is a set of the unique values from the list
 b = set(a)
 
-# What is wrong with a[len(a)]? The first element must be an index, which starts from 0, whereas a length starts from 1. Hence, it should be:
+# What is wrong with a[len(a)]? When getting a value from an index, it starts from 0, whereas the length starts from 1. Hence, it should be:
 a[len(a) - 1]
-# or
+# or,
 a[-1]
 
 # How do you make a backwards slice work?

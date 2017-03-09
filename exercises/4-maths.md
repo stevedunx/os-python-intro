@@ -1,5 +1,4 @@
-Exercises
----------
+# Part 1
 
 Using the following variables:
 
@@ -25,3 +24,17 @@ Try to guess the results that you would get from running the statement. Then, tr
 | 11   | `"0" * 2 `     |       |          |
 | 12   | `m = 12` <br> `m += 1 ` <br> What is the new value of `m`?  |       |          |
 | 13   | `n = 12` <br> `n -= 2 ` <br> What is the new value of `n`?  |       |          |
+
+# Part 2
+
+Why does the following statement throw an error? 
+
+```
+x = "3"
+y = 4
+print(x + y)
+```
+
+Correct the print line above to: 
+* get the numbers to add together; and 
+* get the strings to concatenate together.
