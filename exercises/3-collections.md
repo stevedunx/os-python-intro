@@ -1,6 +1,6 @@
 # Part 1
 
-See [worksheet](../notes/list-worksheet.md)
+See [worksheet](../notes/3-list-worksheet.md).
 
 # Part 2
 
