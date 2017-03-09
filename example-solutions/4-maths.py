@@ -33,3 +33,6 @@ print(int(x) + y)
 
 # To concatenate the strings together
 print(x + str(y))
+
+# Or you could do...
+# print("{0}{1}".format(x, y))

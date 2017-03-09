@@ -1,5 +1,9 @@
 # Part 1
 
+See [worksheet](../notes/list-worksheet.md)
+
+# Part 2
+
 Create a variable that is a list with the following values: 1, 29, 26, 26, 24
 
 * There is an error in the list. Correct it by removing the last item in the list (24) and appending 23 instead.
@@ -28,7 +32,7 @@ t = (1, 2, 3, 4, 5)
 t.append(6)
 ```
 
-# Part 2
+# Part 3
    
 Create a dictionary the Middle as keys and YOB kas the values:
 

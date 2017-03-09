@@ -1,5 +1,5 @@
 #
-# PART ONE
+# PART TWO
 #
 
 # Create an array
@@ -29,7 +29,7 @@ a[-1::-1]
 a[::-1]
 
 #
-# PART TWO
+# PART THREE
 #
 
 # Create a dictionary the Middle as keys and YOB as the values
