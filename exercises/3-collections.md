@@ -9,7 +9,7 @@ Create a variable that is a list with the following values: 1, 29, 26, 26, 24
 * There is an error in the list. Correct it by removing the last item in the list (24) and appending 23 instead.
 * How many items are there in the list?
 * [Sort the list](https://docs.python.org/2/tutorial/datastructures.html#more-on-lists) so that it starts with 29 and ends with 1.
-* Create a new variable that is a set of the unique values from the list.
+* Create a new variable that is a `set` of the unique values from the list.
 
 What is wrong with the following statement?
 
