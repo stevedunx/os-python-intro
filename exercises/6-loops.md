@@ -11,7 +11,7 @@ a_list_of_films = [
 ]
 ```
 
-Beware that if you are trying to add a number to a string, Python gets confused (e.g. `"this is a string" + 10`). To get around this, use `str(x)` to convert the number to a string.
+Beware that if you are trying to add a number to a string, Python gets confused (e.g. `"this is a string" + 10`). To get around this, use `str(x)` to convert the number to a string or use `format`.
 
 # Step 2
 
