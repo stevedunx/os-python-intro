@@ -34,7 +34,7 @@ t.append(6)
 
 # Part 3
    
-Create a dictionary the Middle as keys and YOB kas the values:
+Create a dictionary the Middle as keys and YOB has the values:
 
 | Middle  | YOB |
 |---------|-----|
