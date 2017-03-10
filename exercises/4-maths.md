@@ -36,5 +36,5 @@ print(x + y)
 ```
 
 Correct the print line above to: 
-* get the numbers to add together; and 
-* get the strings to concatenate together.
+* get the numbers to add together (with a result of 7); and 
+* get the strings to concatenate together (with a result of "34").
