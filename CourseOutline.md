@@ -30,9 +30,9 @@
   * Creating instances of classes
 
 8. Helpful functions:
-  * IO functions (read, write)
-  * time
-  * glob
-  * re (regular expressions)
-  * csv
-  * os.path(exists)
+  * IO functions (read, write) (https://www.programiz.com/python-programming/file-operation)
+  * time (https://pymotw.com/2/time/)
+  * glob (https://everydayscripting.wordpress.com/2008/12/24/pythons-glob-module-is-really-cool/)
+  * re (regular expressions) (https://pymotw.com/3/re/index.html)
+  * csv (https://pymotw.com/3/csv/index.html)
+  * os.path(exists) (https://pymotw.com/3/os.path/index.html)
