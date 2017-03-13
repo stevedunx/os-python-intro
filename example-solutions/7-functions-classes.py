@@ -32,7 +32,7 @@ dogs.append(Dog("Doge", "Shiba Inu", False))
 dogs.append(Dog("Pupperino", "Russell Terrier"))
 # You don't need to make dogs explicitly friendly, but you can if you want to...
 dogs.append(Dog("Bo", "Portuguese Water Dog", True)) 
-dogs.append(Dog(isFriendly=False, breed="Werewolf", name="Fenrir", False))
+dogs.append(Dog(isFriendly=False, breed="Werewolf", name="Fenrir", False)) #TODO error??
 
 for dog in dogs:
     print(dog.name)
