@@ -28,32 +28,3 @@ Starting with this line:
 get the list of numbers in some_fib that are either divisible by two or five.
 
 Can you do this in one line?
-
-# Bonus
-Write a "Fizzbuzz" function:
-  * Input is a number
-  * Output is counting up from 1 to your input number, except:
-    * Multiples of 3 are replaced by "fizz"
-    * Multiples of 5 are replaced by "buzz"
-    * Multiples of both 3 and 5 are replaced by "fizzbuzz"
-    
-With input 16, example output would be:
-
-    1
-    2
-    fizz
-    4
-    buzz
-    fizz
-    7
-    8
-    fizz
-    buzz
-    11
-    fizz
-    13
-    14
-    fizzbuzz
-    16
-    
-Clue: % is the modulo function, and it will be useful...
