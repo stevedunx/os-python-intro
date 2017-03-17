@@ -21,4 +21,4 @@ By default, dogs should be friendly. :)
   * Try explicitly naming the arguments and changing the order of arguments around
 * Iterate through the list, and print the dog's name with its doggy sound
 
-[< Previous](6-loops.md) | [Outline](../CourseOutline.md) | [S](../example-solutions/7-functions-classes.py)
+[< Previous](6-loops.md) | [Outline](../CourseOutline.md) | [S](../example-solutions/7-functions-classes.py) | [>](8-bonus-modules.md)
