@@ -25,7 +25,7 @@ What is wrong with the following statement?
 
 ```
 if True:
-    print "This is true"
+        print "This is true"
 	print "But it might not be the truth"
 ```
 
