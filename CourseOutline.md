@@ -20,9 +20,11 @@
   * Boolean values
   * If/else
   * And/or
+  * Indentation
 
-6. For loops [(exercise)](exercises/6-loops.md)
+6. Loops [(exercise)](exercises/6-loops.md)
   * Iteration through collections
+  * While loops
 
 7. Functions and classes [(exercise)](exercises/7-functions-classes.md)
   * Scope

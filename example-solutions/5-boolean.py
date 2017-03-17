@@ -16,3 +16,11 @@ if order_quantity <= item_stock: print "enough"
 if buyer_wants_delivery and buyers_distance_from_shop <= maximum_delivery_distance:
     print "within"
 
+# Part 2
+
+# the indentation is a mixture of tabs and spaces.
+# Tabs can be interpreted as differing number of spaces depending on the situation.
+# It is better to use only spaces.
+if True:
+    print "This is true"
+    print "But it might not be the truth"
