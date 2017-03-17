@@ -18,8 +18,10 @@ if buyer_wants_delivery and buyers_distance_from_shop <= maximum_delivery_distan
 
 # Part 2
 
-# the indentation is a mixture of tabs and spaces.
-# Tabs can be interpreted as differing number of spaces depending on the situation.
+# Block indentation must have the same indentation.
+# In this example, the indentation is a mixture of tabs and spaces.
+# Tabs can be interpreted as differing number of spaces depending on the situation:
+# Python interprets them as 8 spaces; NotePad++ and the Python console display them as 4.
 # It is better to use only spaces.
 if True:
     print "This is true"
