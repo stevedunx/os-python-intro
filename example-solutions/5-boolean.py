@@ -20,6 +20,7 @@ if buyer_wants_delivery and buyers_distance_from_shop <= maximum_delivery_distan
 
 # the indentation is a mixture of tabs and spaces.
 # Tabs can be interpreted as differing number of spaces depending on the situation.
+# GitHub and Python interpret them as 8 spaces; NotePad++ and the console interpret them as 4.
 # It is better to use only spaces.
 if True:
     print "This is true"
