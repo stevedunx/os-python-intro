@@ -38,3 +38,5 @@ print(x + y)
 Correct the print line above to: 
 * get the numbers to add together (with a result of 7); and 
 * get the strings to concatenate together (with a result of "34").
+
+[< Previous](3-collections.md) | [Outline](../CourseOutline.md) | [S](../example-solutions/4-maths.py) | [Next >](5-boolean.md)

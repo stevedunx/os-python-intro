@@ -53,3 +53,5 @@ What is wrong with the following statement?
 d = {1:4,5:7,24:9}
 d[2]
 ```
+
+[< Previous](2-string-variables.md) | [Outline](../CourseOutline.md) | [S](../example-solutions/3-collections.py) | [Next >](4-maths.md)

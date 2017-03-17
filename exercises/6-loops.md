@@ -26,3 +26,5 @@ Starting with this line:
 Get the list of numbers in some_fib that are either divisible by two or five.
 
 Can you do this in one line?
+
+[< Previous](5-boolean.md) | [Outline](../CourseOutline.md) | [S](../example-solutions/6-loops.py) | [Next >](7-functions-classes.md)
