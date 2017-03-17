@@ -39,3 +39,5 @@
   * csv (https://pymotw.com/3/csv/index.html)
   * os.path(exists) (https://pymotw.com/3/os.path/index.html)
   * Exceptions (http://book.pythontips.com/en/latest/exceptions.html)
+
+[Homework](exercises/8-bonus-modules.md)
