@@ -19,6 +19,10 @@ Create a while loop that loops through the numbers from 1 to 10 and prints the n
 
 # Bonus
 
-Create a while loop that returns the Fibonacci Sequence, up to 34.
+Starting with this line:
 
-The sequence starts from 0 and adds the last two numbers together. 0, 1, 1, 2, 3, ... 34.
+    some_fib = [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
+    
+get the list of numbers in some_fib that are either divisible by two or five.
+
+Can you do this in one line?

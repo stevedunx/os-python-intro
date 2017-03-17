@@ -19,12 +19,4 @@ Write a separate if statements to check:
 * whether the `order_quantity` is less than or equal to the `item_stock`, then print "enough" otherwise print "out of stock"
 * whether the `buyer_wants_delivery` and the `buyers_distance_from_shop` is less than the `maximum_delivery_distance`, then print "within"
 
-# Part 2
 
-Starting with this line:
-
-    some_fib = [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
-    
-get the list of numbers in some_fib that are either divisible by two or five.
-
-Can you do this in one line?

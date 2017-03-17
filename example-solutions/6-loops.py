@@ -18,11 +18,6 @@ while i <= 10:
 
 # Bonus
 
-second_last_number = 0
-last_number = 1
-while last_number < 34:
-     new_number = second_last_number + last_number
-     print new_number
-     # prepare for next iteration, shift variables
-     second_last_number = last_number
-     last_number = new_number
+some_fib = [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
+print ([x for x in some_fib if (x % 2 == 0 or x % 5 == 0)])
+
