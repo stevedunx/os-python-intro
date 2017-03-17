@@ -23,6 +23,6 @@ Starting with this line:
 
     some_fib = [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
     
-get the list of numbers in some_fib that are either divisible by two or five.
+Get the list of numbers in some_fib that are either divisible by two or five.
 
 Can you do this in one line?
