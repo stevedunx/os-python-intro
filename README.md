@@ -10,8 +10,8 @@ Python is:
 It promotes itself<sup>[11]</sup> as:
 * having an easy-to-read elegant syntax;
 * being easy-to-use language;
-* has a large standard library that includes web servers, regular expressions, reading and modifying files; and
-* runs anywhere.
+* having a large standard library that includes web servers, regular expressions, reading and modifying files; and
+* being able to run anywhere.
 
 Working in our geospatial organsation, Python has a particular relevance, because:
 * it is the most popular programming language for handling Maths and Data<sup>[4]</sup>;
