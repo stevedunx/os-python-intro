@@ -11,14 +11,14 @@ Using the list below, find the statements that match each answer.
 
 `numbers = [1, 2, 3, 4, 5, 6, 233]`
 
-| Statement       | Result    |
-|-----------------|-----------|
-| `numbers[0]  `  |           |
-| `numbers[-1] `  |           |
-| `numbers[0:2]`  |           |
-| `numbers[1:] `  |           |
-| `numbers[:-1]`  |           |
-| `numbers[::2]`  |           |
+| Statement       | Result  |
+|-----------------|---------|
+| `numbers[0]  `  |         |
+| `numbers[-1] `  |         |
+| `numbers[0:2]`  |         |
+| `numbers[1:] `  |         |
+| `numbers[:-1]`  |         |
+| `numbers[::2]`  |         |
 
 Answers:
 * [1,3,5,233]
