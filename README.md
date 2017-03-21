@@ -8,9 +8,9 @@ Python is:
 * the second most Googled programming language for tutorials, behind Java<sup>[8]</sup>.
 
 It promotes itself<sup>[11]</sup> as:
-* having an easy-to-read elegant syntax;
-* being easy-to-use language;
-* having a large standard library that includes web servers, regular expressions, reading and modifying files; and
+* having an easy-to-read and elegant syntax;
+* being an easy-to-use language;
+* having a large standard library; and
 * being able to run anywhere.
 
 Working in our geospatial organsation, Python has a particular relevance, because:
