@@ -7,6 +7,12 @@ Python is:
 * the fourth most active language on Stack Overflow<sup>[3]</sup>; and
 * the second most Googled programming language for tutorials, behind Java<sup>[8]</sup>.
 
+It promotes itself<sup>[11]</sup> as:
+* having an easy-to-read elegant syntax;
+* being easy-to-use language;
+* has a large standard library that includes web servers, regular expressions, reading and modifying files; and
+* runs anywhere.
+
 Working in our geospatial organsation, Python has a particular relevance, because:
 * it is the most popular programming language for handling Maths and Data<sup>[4]</sup>;
 * it can be used to control ESRI's ArcGIS tools<sup>[5]</sup>;
@@ -25,3 +31,4 @@ Working in our geospatial organsation, Python has a particular relevance, becaus
 [8]: http://pypl.github.io/PYPL.html "PYPL"
 [9]: http://www.tiobe.com/tiobe-index/ "TIOBE: TIOBE Index"
 [10]: http://gis.stackexchange.com/questions/tagged/gdal "StackExchange GIS: Questions tagged GDAL"
+[11]: https://wiki.python.org/moin/BeginnersGuide/Overview "Python Wiki: Beginners Overview"
