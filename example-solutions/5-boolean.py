@@ -10,7 +10,10 @@ buyers_distance_from_shop = 208
 if order_quantity == item_stock: print "restock required"
 
 # enough in stock
-if order_quantity <= item_stock: print "enough"
+if order_quantity <= item_stock: 
+    print "enough"
+else: 
+    print "out of stock"
 
 # buyer wants delivery and is within delivery distance
 if buyer_wants_delivery and buyers_distance_from_shop <= maximum_delivery_distance:
