@@ -11,7 +11,7 @@ Working in our geospatial organsation, Python has a particular relevance, becaus
 * it is the most popular programming language for handling Maths and Data<sup>[4]</sup>;
 * it can be used to control ESRI's ArcGIS tools<sup>[5]</sup>;
 * it is used inside Safe's FME<sup>[6]</sup>; and 
-* it has good bindings for [GDAL](http://www.gdal.org/).
+* it has good bindings for [GDAL](http://www.gdal.org/)<sup>[10]</sup>.
 
 [Continue to the outline and the exercises](CourseOutline.md)
 
@@ -24,3 +24,4 @@ Working in our geospatial organsation, Python has a particular relevance, becaus
 [7]: https://blog.newrelic.com/2016/08/18/popular-programming-languages-2016-go/ "New Relic: Popular Programming Languages"
 [8]: http://pypl.github.io/PYPL.html "PYPL"
 [9]: http://www.tiobe.com/tiobe-index/ "TIOBE: TIOBE Index"
+[10]: http://gis.stackexchange.com/questions/tagged/gdal "StackExchange GIS: Questions tagged GDAL"
