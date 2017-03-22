@@ -24,9 +24,16 @@ Once a list is created, it can be changed:
 
 Tuples are like lists, but cannot be changed. Tuples can be faster than lists.
 
-* `a_tuple = (1,3,5,7,9)` will create a new tuple.
+* `a_tuple = (1,3,5,7,9)` will create a new tuple
 
 Data can be obtained from a tuple just like lists, but nothing can be added to an existing tuple.
+
+# Sets
+
+Sets are unordered collections that have a unique set of values.
+
+* `a_set = {1,2,3,4,5}` will create a set with defined values
+* `a_set = set()` will create an empty set
 
 # Dictionaries
 
