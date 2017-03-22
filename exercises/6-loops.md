@@ -1,6 +1,6 @@
 # Step 1
 
-Loop the through the following list. Print the name of each film and the length of the film's title (e.g. `'Flying Circus' is 13 characters long.`.
+Loop the through the following list. Print the name of each film and the length of the film's title (e.g. `'Flying Circus' is 13 characters long`.
 
 ```
 a_list_of_films = [
