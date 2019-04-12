@@ -18,6 +18,7 @@ Working in our geospatial organsation, Python has a particular relevance, becaus
 * it can be used to control ESRI's ArcGIS tools<sup>[5]</sup>;
 * it is used inside Safe's FME<sup>[6]</sup>; and 
 * it has good bindings for [GDAL](http://www.gdal.org/)<sup>[10]</sup>.
+* it is compatible with Databricks (though Scala fits a bit better)
 
 [Continue to the outline and the exercises](CourseOutline.md)
 
