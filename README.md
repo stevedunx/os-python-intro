@@ -14,7 +14,7 @@ It promotes itself<sup>[11]</sup> as:
 * being able to run anywhere.
 
 Working in our geospatial organsation, Python has a particular relevance, because:
-* it is the most popular programming language for handling Maths and Data<sup>[4]</sup>;
+* it is the most popular programming language for handling Maths and Data<sup>[4][12]</sup>;
 * it can be used to control ESRI's ArcGIS tools<sup>[5]</sup>;
 * it is used inside Safe's FME<sup>[6]</sup>; and 
 * it has good bindings for [GDAL](http://www.gdal.org/)<sup>[10]</sup>.
@@ -33,3 +33,4 @@ Working in our geospatial organsation, Python has a particular relevance, becaus
 [9]: http://www.tiobe.com/tiobe-index/ "TIOBE: TIOBE Index"
 [10]: http://gis.stackexchange.com/questions/tagged/gdal "StackExchange GIS: Questions tagged GDAL"
 [11]: https://wiki.python.org/moin/BeginnersGuide/Overview "Python Wiki: Beginners Overview"
+[12]: https://insights.stackoverflow.com/survey/2017#technology-_-most-popular-languages-by-occupation "Stack Overflow: Developer Survey"
