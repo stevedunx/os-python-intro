@@ -1,7 +1,7 @@
 # Why Python?
 
 Python is:
-* the sixth most popular programming language<sup>[1],[7],[9]</sup>;
+* the fourth most popular programming language<sup>[1],[7],[9]</sup>;
 * out of the twelve most popular languages, the most 'loved' by developers<sup>[2]</sup>;
 * the fourth most desired programming language for developers to use<sup>[2]</sup>;
 * the fourth most active language on Stack Overflow<sup>[3]</sup>; and
@@ -21,7 +21,7 @@ Working in our geospatial organsation, Python has a particular relevance, becaus
 
 [Continue to the outline and the exercises](CourseOutline.md)
 
-[1]: http://stackoverflow.com/research/developer-survey-2016#technology "Stack Overflow: Developer Survey"
+[1]: https://insights.stackoverflow.com/survey/2019#most-popular-technologies "Stack Overflow: Developer Survey"
 [2]: http://stackoverflow.com/research/developer-survey-2016#technology-most-loved-dreaded-and-wanted "Stack Overflow: Developer Survey"
 [3]: http://stackoverflow.com/research/developer-survey-2016#technology-top-tech-on-stack-overflow "Stack Overflow: Developer Survey"
 [4]: http://stackoverflow.com/research/developer-survey-2016#most-popular-technologies-per-occupation "Stack Overflow: Developer Survey"
