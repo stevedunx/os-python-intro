@@ -14,7 +14,7 @@ It promotes itself<sup>[11]</sup> as:
 * being able to run anywhere.
 
 Working in our geospatial organsation, Python has a particular relevance, because:
-* it is the most popular programming language for handling Maths and Data<sup>[4][12]</sup>;
+* it is the most popular programming language for handling Maths and Data<sup>[4],[12]</sup>;
 * it can be used to control ESRI's ArcGIS tools<sup>[5]</sup>;
 * it is used inside Safe's FME<sup>[6]</sup>; and 
 * it has good bindings for [GDAL](http://www.gdal.org/)<sup>[10]</sup>.
