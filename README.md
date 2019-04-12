@@ -5,7 +5,7 @@ Python is:
 * out of the twelve most popular languages, the most 'loved' by developers<sup>[2]</sup>;
 * the fourth most desired programming language for developers to use<sup>[2]</sup>;
 * the fourth most active language on Stack Overflow<sup>[3]</sup>; and
-* the second most Googled programming language for tutorials, behind Java<sup>[8]</sup>.
+* the most Googled programming language for tutorials<sup>[8]</sup>.
 
 It promotes itself<sup>[11]</sup> as:
 * having an easy-to-read and elegant syntax;
